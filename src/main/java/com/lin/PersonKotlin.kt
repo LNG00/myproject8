@@ -8,5 +8,5 @@ class PersonKotlin {
 
 fun main(){
     val p = PersonKotlin()
-    p.greeting()
+    p.greeting();
 }
