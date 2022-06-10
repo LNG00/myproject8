@@ -1,7 +1,7 @@
 package com.lin;
 
 public class Person {
-    public void gretting(){
+    public void greeting(){
         System.out.println("Good day!");
     }
 }
